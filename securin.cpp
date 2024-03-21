@@ -36,7 +36,3 @@ int main() {
     return 0;
 }
 
-//PART - B
-
-
-
